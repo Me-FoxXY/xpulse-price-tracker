@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Android / Gradle
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/captures/
+android/.kotlin/
+*.iml
+.DS_Store
+
+# Built APKs (binaries, not source)
+*.apk

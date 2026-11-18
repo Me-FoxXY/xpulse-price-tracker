@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose supplies the real UI theme; this just needs to be a valid,
+         action-bar-less parent so the Activity window looks right at launch. -->
+    <style name="Theme.XpulseTracker" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
