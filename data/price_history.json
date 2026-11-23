@@ -112,5 +112,24 @@
         "ex_showroom": 149957
       }
     }
+  },
+  {
+    "date": "2026-11-23",
+    "checked_at": "2026-11-23T19:00:24+05:30",
+    "bike": "Hero Xpulse 200 4V",
+    "variant": "STD",
+    "city": "Thiruvananthapuram",
+    "on_road": 186189,
+    "ex_showroom": 149957,
+    "sources": {
+      "bikewale": {
+        "on_road": 186189,
+        "ex_showroom": 149957
+      },
+      "bikedekho": {
+        "on_road": 187562,
+        "ex_showroom": 149957
+      }
+    }
   }
 ]
